@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Khaled Galal 👋
 
-<!--
-**KHALEDGALA/KHALEDGALA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Aspiring Network Security Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate interested in Networking, Network Security, and IT Infrastructure. I'm building my technical skills through hands-on projects and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Areas of Interest
+- Networking & TCP/IP
+- Network Security
+- Linux & IT Infrastructure
+- Python Scripting and Automation
+
+### 🛠️ Technical Skills
+- **Programming:** Python, C++, C#, Java, JavaScript, HTML, CSS
+- **Networking:** TCP/IP fundamentals, socket programming
+- **Tools:** Git, GitHub, Visual Studio Code
+
+### 📂 Projects
+I'm currently building practical projects to strengthen my networking and programming skills. More projects will be added as I progress.
+
+### 📫 Connect with Me
+- **GitHub:** [KHALEDGALA](https://github.com/KHALEDGALA)
+
+---
+
+*Always learning. Always building.*
