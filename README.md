@@ -20,7 +20,7 @@ I'm currently building practical projects to strengthen my networking and progra
 
 ### 📫 Connect with Me
 - **GitHub:** [KHALEDGALA](https://github.com/KHALEDGALA)
-- **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/khaled-galal-0ba103382)
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/khaled-galal-0ba103382/)
 
 ---
 
